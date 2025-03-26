@@ -10,11 +10,11 @@ Vida Carriere - [GitHub Profile](https://github.com/hattie2801)
 
 ## Features
 
-- Profile heading
-- Short bio
-- List of hobbies
-- A link to your favorite site
-- Profile image (coming soon!)
+- About 
+- Career
+- Hobbies
+- Favorite Restaurants
+- Future Plans
 
 ## Technologies Used
 
