@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+h1{     
+    font-family: "Italianno", cursive;
+    font-weight: 600;
+    font-size: 90px;
+}
+
+h2{
+    font-family: "Italianno", cursive;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+body{
+    font-family: "Italianno", cursive;
+    font-weight: 400;
+    font-size: 30px;
+}
