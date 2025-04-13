@@ -12,8 +12,35 @@ h2{
     font-size: 50px;
 }
 
+h1, h2{
+    text-transform: uppercase;
+    text-transform: bold;
+    text-spacing-trim: space-all;
+}
+
 body{
     font-family: "Italianno", cursive;
-    font-weight: 400;
-    font-size: 30px;
+    font-weight: 100;
+    background-color: lightgray;
+    color: black;
+
 }
+p{
+    line-height: 1.6;
+    font-size: 1.1rem;
+    
+}
+
+a:link{
+    color: rgb(54, 23, 228);
+
+}
+
+a:visited {
+    color: rgb(128, 0, 70);
+  }
+
+  a:hover {
+    text-decoration: underline; background-color: ;
+  }
+
